@@ -1,0 +1,22 @@
+# Ignore lock files
+Cargo.lock
+*.lock
+
+# Ignore target directory
+target/
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
