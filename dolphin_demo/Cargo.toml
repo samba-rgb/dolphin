@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-dolphin = { path = "../dolphin"}
+dotenv = "0.15"
+dolphin = { path = "../dolphin" }
